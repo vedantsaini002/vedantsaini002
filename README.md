@@ -18,7 +18,7 @@
 ---
 
 ## 🤝 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/vedantsaini002](https://linkedin.com/in/vedantsaini002)  
+- **LinkedIn:** [linkedin.com/in/vedantsaini002](https://www.linkedin.com/in/vedant-saini-1081a3264/)  
 - **Email:** vedantsaini456@gmail.com  
 - **Portfolio:** _Coming Soon_ 🚧  
 
