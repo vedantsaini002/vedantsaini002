@@ -17,12 +17,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Vedant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedantsaini002&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantsaini002&layout=compact&theme=tokyonight)  
-
----
-
 ## 🤝 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/vedantsaini002](https://linkedin.com/in/vedantsaini002)  
 - **Email:** vedantsaini002@gmail.com  
