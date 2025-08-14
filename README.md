@@ -11,7 +11,7 @@
 - **Languages:** Java, JavaScript, HTML, CSS  
 - **Frontend:** HTML5, CSS3, JavaScript, React.js  
 - **Backend:** Node.js 
-- **Databases:** MySQL 
+- **Databases:** SQL 
 - **Tools & Platforms:** Git, GitHub, Vercel, VS Code  
 - **Other Skills:** Problem-Solving, MVVM Architecture, Design Patterns  
 
