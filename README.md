@@ -8,10 +8,10 @@
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Java, JavaScript, HTML, CSS  
+- **Languages:** Java, C, C++, SQL
 - **Frontend:** HTML5, CSS3, JavaScript, React.js  
 - **Backend:** Node.js 
-- **Databases:** SQL 
+- **Databases:** MySQL 
 - **Tools & Platforms:** Git, GitHub, Vercel, VS Code  
 - **Other Skills:** Problem-Solving, MVVM Architecture, Design Patterns  
 
