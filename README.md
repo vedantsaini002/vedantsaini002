@@ -3,8 +3,7 @@
 🚀 **B.Tech CSE (Final Year) Student | Java & Full-Stack Developer | Tech Enthusiast**  
 
 💡 Passionate about creating efficient, user-friendly applications and exploring innovative solutions in **software development, web technologies, and problem-solving**.  
-🌱 Currently improving my skills in **full-stack development** and **system design**.  
-
+🌱 Currently improving my skills in **full-stack development**.
 ---
 
 ## 📫 Find Me At
