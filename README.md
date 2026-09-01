@@ -1,15 +1,14 @@
 # 👋 Hi, I'm Vedant Saini  
 
-🚀 **B.Tech CSE (Final Year) Student | Java & Full-Stack Developer | Tech Enthusiast**  
+🚀 **B.Tech CSE Graduate | Java | Tech Enthusiast**  
 
 💡 Passionate about creating efficient, user-friendly applications and exploring innovative solutions in **software development, web technologies, and problem-solving**.  
-🌱 Currently improving my skills in **full-stack development**.
 ---
 
 ## 📫 Find Me At
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantsaini456@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-saini-1081a3264/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-saini-002ra/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vedantsaini/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/vedantsaini456)
 
